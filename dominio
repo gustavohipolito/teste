@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Title -->
+  <title>Registre seu domínio agora na Nuvem!</title>
+  <meta property="og:title" content="Registre seu domínio agora na Nuvem!">
+
+  <!-- Description -->
+  <meta name="description" content="Coloque sua idéia no ar hoje mesmo. Domínios a partir de R$ 59,90 por ano.">
+  <meta itemprop="description" content="Coloque sua idéia no ar hoje mesmo. Domínios a partir de R$ 59,90 por ano.">
+  <meta property="og:description" content="Coloque sua idéia no ar hoje mesmo. Domínios a partir de R$ 59,90 por ano.">
+
+  <!-- Theme Color Global -->
+  <meta name="theme-color" content="#2EC9D4">
+  <meta name="msapplication-TileColor" content="#2EC9D4">
+  <meta name="msapplication-navbutton-color" content="#2EC9D4">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#2EC9D4">
+
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="./files/favicons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./files/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="194x194" href="./files/favicons/favicon-194x194.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="./files/favicons/android-chrome-192x192.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./files/favicons/favicon-16x16.png">
+  <link rel="manifest" href="./files/favicons/site.webmanifest">
+  <link rel="mask-icon" href="./files/favicons/safari-pinned-tab.svg" color="#2ec9d4">
+  <link rel="shortcut icon" href="./files/favicons/favicon.ico">
+  <meta name="apple-mobile-web-app-title" content="Nuvem Hospedagem">
+  <meta name="application-name" content="Nuvem Hospedagem">
+  <meta name="msapplication-TileColor" content="#132d41">
+  <meta name="msapplication-TileImage" content="./files/favicons/mstile-144x144.png">
+  <meta name="msapplication-config" content="./files/favicons/browserconfig.xml">
+  <meta name="theme-color" content="#132d41">
+
+  <!-- Share Image URL -->
+  <meta name="image" content="https://nuvemhospedagem.com.br/files/images/global/share.png">
+  <meta itemprop="image" content="https://nuvemhospedagem.com.br/files/images/global/share.png">
+  <meta property="og:image" content="https://nuvemhospedagem.com.br/files/images/global/share.png">
+
+  <!-- Site Name -->
+  <meta name="author" content="Nuvem Hospedagem">
+  <meta itemprop="name" content="Nuvem Hospedagem">
+  <meta name="article:author" content="Nuvem Hospedagem">
+  <meta name="application-name" content="Nuvem Hospedagem">
+  <meta property="og:site_name" content="Nuvem Hospedagem">
+  <meta name="apple-mobile-web-app-title" content="Nuvem Hospedagem">
+
+  <!-- Share Image Size -->
+  <meta property="og:locale" content="pt_BR">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1920">
+  <meta property="og:image:height" content="1080">
+  <meta property="og:type" content="website">
+  <meta property="og:card" content="summary_large_image">
+
+  <!-- Site URL -->
+  <link rel="canonical" href="https://nuvemhospedagem.com.br">
+  <meta property="og:url" content="https://nuvemhospedagem.com.br">
+
+  <!-- CSS imports -->
+  <link href="./assets/css/pages/registrar-dominio/index.css" rel="stylesheet">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114389106-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114389106-1');
+</script>    
+    
+    <!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '682382215529226');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=682382215529226&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+</head>
+<body>
+
+  <!-- Nav -->
+  <nav>
+    <img name="logo" class="logo" src="./files/images/global/logo-nuvem-1.svg">
+    <button type="button" class="abrir" name="abrirHospedagem">
+      Hospedagem
+      <img src="./files/images/global/seta.svg">
+    </button>
+    <button type="button" class="abrir" name="abrirServicos">
+      Serviços
+      <img src="./files/images/global/seta.svg">
+    </button>
+    <button type="button" class="abrir" name="abrirSuporte">
+      Suporte
+      <img src="./files/images/global/seta.svg">
+    </button>
+    <button type="button" class="abrir" name="abrirEmpresa">
+      Empresa
+      <img src="./files/images/global/seta.svg">
+    </button>
+    <button type="button" class="registrar" data-url="https://cliente.nuvemhospedagem.com.br/register.php">
+      Criar minha conta
+    </button>
+    <button type="button" class="entrar" data-url="https://cliente.nuvemhospedagem.com.br/index.php?rp=/login">
+      Já sou cliente
+    </button>
+    <!-- Quadro Hospedagem -->
+    <div class="quadro hospedagem" name="quadroHospedagem">
+      <div class="losango"></div>
+      <button type="button" data-pagina="/hospedagem-wordpress">
+        <img src="./files/images/pages/hospedagem-wordpress/icone-wordpress.png">
+        <h3>Hospedagem WordPress</h3>
+        <p>Seu site hospedado em servidores otimizados para WordPress.</p>
+      </button>
+      <button type="button" data-pagina="/hospedagem-vps">
+        <img src="./files/images/pages/hospedagem-vps/icone-processador.png">
+        <h3>Servidores VPS</h3>
+        <p>Precisa de algo mais escalável e robusto? Nossos servidores VPS são perfeitos para você.</p>
+      </button>
+      <button type="button" data-pagina="/hospedagem-de-sites">
+        <img src="./files/images/pages/hospedagem-ssd/icone-rapido.png">
+        <h3>Hospedagem SSD</h3>
+        <p>Hospede seus sites em HTML ou PHP nos servidores 100% SSD da Nuvem.</p>
+      </button>
+    </div>
+    <!-- Quadro Serviços -->
+    <div class="quadro servicos" name="quadroServicos">
+      <div class="losango"></div>
+      <button type="button" data-pagina="/email-profissional">
+        <img src="./files/images/pages/email-profissional/icone-arroba.png">
+        <h3>E-mail Profissional</h3>
+        <p>Tenha um e-mail profissional para sua empresa ou projeto. Ex: email@suaempresa.com</p>
+      </button>
+      <button type="button" data-pagina="/registrar-dominio">
+        <img src="./files/images/pages/certificado-ssl/icone-rede.png">
+        <h3>Registre seu Domínio</h3>
+        <p>Registre um domínio .com, .com.br, .net ou a extensão que mais combinar com sua ideia.</p>
+      </button>
+      <button type="button" data-pagina="/certificado-ssl">
+        <img src="./files/images/pages/registrar-dominio/icone-cadeado.png">
+        <h3>Certificado SSL</h3>
+        <p>Tenha o cadeado verde em seu projeto com o certificado SSL da Nuvem.</p>
+      </button>
+    </div>
+    <!-- Quadro Suporte -->
+    <div class="quadro suporte" name="quadroSuporte">
+      <div class="losango"></div>
+      <button type="button" data-pagina="/contato">
+        <img src="./files/images/pages/contato/icone-chat.png">
+        <h3>Falar com Suporte</h3>
+        <p>Precisa de ajuda? Chame nosso time de suporte que iremos te ajudar no que for necessário.</p>
+      </button>
+      <button type="button" data-pagina="/duvidas">
+        <img src="./files/images/pages/contato/icone-duvida.png">
+        <h3>Perguntas Frequentes</h3>
+        <p>Dezenas de perguntas que já respondemos para os clientes da nuvem!</p>
+      </button>
+    </div>
+    <!-- Quadro Empresa -->
+    <div class="quadro empresa" name="quadroEmpresa">
+      <div class="losango"></div>
+      <button type="button" data-pagina="/sobre-nos">
+        <img src="./files/images/pages/sobre-nos/icone-nuvem.png">
+        <h3>Sobre a Nuvem</h3>
+        <p>Conheça mais sobre a Nuvem, uma empresa com mais de 10 anos de história.</p>
+      </button>
+      <button type="button" data-pagina="/afiliados">
+        <img src="./files/images/pages/indique-e-ganhe/icone-saco-dinheiro.png">
+        <h3>Indique e Ganhe</h3>
+        <p>Veja como ganhar uma ótima renda extra indicando a Nuvem.</p>
+      </button>
+    </div>
+    <!-- Menu -->
+    <button type="button" class="menu" name="abrirMenuMobile">
+      <div class="maior"></div>
+      <div class="menor"></div>
+    </button>
+    <!-- Mobile -->
+    <div class="mobile" name="menuMobile">
+      <button type="button" class="criar" data-url="https://cliente.nuvemhospedagem.com.br/register.php">
+        Criar minha conta
+      </button>
+      <button type="button" class="logar" data-url="https://cliente.nuvemhospedagem.com.br/index.php?rp=/login">
+        Já sou cliente
+      </button>
+      <button type="button" class="opcao" data-pagina="/hospedagem-wordpress">
+        <img src="./files/images/pages/hospedagem-wordpress/icone-wordpress.png">
+        <h3>Hospedagem WordPress</h3>
+        <p>Hospede seu site wordpress nos servidores 100% SSD da Nuvem.</p>
+      </button>
+      <button type="button" class="opcao" data-pagina="/hospedagem-vps">
+        <img src="./files/images/pages/hospedagem-vps/icone-processador.png">
+        <h3>Servidores VPS</h3>
+        <p>Precisa de algo mais escalável e robusto? Nossos servidores VPS são perfeitos para você.</p>
+      </button>
+      <button type="button" class="opcao" data-pagina="/hospedagem-de-sites">
+        <img src="./files/images/pages/hospedagem-ssd/icone-rapido.png">
+        <h3>Hospedagem SSD</h3>
+        <p>Hospede seus sites em HTML ou PHP nos servidores 100% SSD da Nuvem.</p>
+      </button>
+      <button type="button" class="opcao" data-pagina="/email-profissional">
+        <img src="./files/images/pages/email-profissional/icone-arroba.png">
+        <h3>E-mail Profissional</h3>
+        <p>Tenha um e-mail profissional para sua empresa ou projeto. Ex: email@suaempresa.com</p>
+      </button>
+      <button type="button" class="opcao" data-pagina="/registrar-dominio">
+        <img src="./files/images/pages/certificado-ssl/icone-rede.png">
+        <h3>Registre seu Domínio</h3>
+        <p>Registre um domínio .com, .com.br, .net ou a extensão que mais combinar com sua ideia.</p>
+      </button>
+      <button type="button" class="opcao" data-pagina="/certificado-ssl">
+        <img src="./files/images/pages/registrar-dominio/icone-cadeado.png">
+        <h3>Certificado SSL</h3>
+        <p>Tenha o cadeado verde em seu projeto com o certificado SSL da Nuvem.</p>
+      </button>
+      <button type="button" class="opcao" data-pagina="/sobre-nos">
+        <img src="./files/images/pages/sobre-nos/icone-nuvem.png">
+        <h3>Sobre a Nuvem</h3>
+        <p>Conheça mais sobre a Nuvem, uma empresa com mais de 10 anos de história.</p>
+      </button>
+      <button type="button" class="opcao" data-pagina="/contato">
+        <img src="./files/images/pages/contato/icone-chat.png">
+        <h3>Falar com Suporte</h3>
+        <p>Precisa de ajuda? Chame nosso time de suporte que iremos te ajudar no que for necessário.</p>
+      </button>
+        <button type="button" class="opcao" data-pagina="/duvidas">
+        <img src="./files/images/pages/contato/icone-duvida.png">
+        <h3>Perguntas Frequentes</h3>
+        <p>Dezenas de perguntas que já respondemos para os clientes da nuvem!</p>
+      </button>
+      <button type="button" class="opcao" data-pagina="/afiliados">
+        <img src="./files/images/pages/indique-e-ganhe/icone-saco-dinheiro.png">
+        <h3>Indique e Ganhe</h3>
+        <p>Veja como ganhar uma ótima renda extra indicando a Nuvem.</p>
+      </button>
+    </div>
+  </nav> 
+
+  <!-- section -->
+  <section class="apresentacao" name="apresentacao">
+    <div class="texto">
+      <h1>Registre <span>seu domínio</span> agora mesmo!</h1>
+      <p>Domínios a partir de R$ 59,90 por ano. O domínio é o seu endereço na internet, para ser encontrato você precisa registrar ele. <br>Para sua comodidade, nós fazemos isso para você! Basta digitar abaixo:</p>
+      <div class="input">
+        <img class="cadeado" src="./files/images/pages/registrar-dominio/icone-cadeado.png">
+        <h3>https:// <span>www.</span></h3>
+        <input type="text" spellcheck="false" name="dominio2" placeholder="escreva seu domínio aqui...">
+        <button type="button" name="acessar2">
+          <img src="./files/images/global/check-azul.svg">
+        </button>
+      </div>
+    </div>
+    <img class="principal" src="./files/images/pages/registrar-dominio/notebook-dominio.png">
+  </section>
+
+  <!-- section -->
+  <section class="painel">
+    <div class="texto">
+      <h2>Painel de <span>Controle</span></h2>
+      <p>Você terá um painel de controle 100% em português, simples de utilizar e sem burocracias.</p>
+    </div>
+    <img class="principal" src="./files/images/pages/email-profissional/cpanel.png">
+  </section>
+
+  <!-- section -->
+  <section class="qualidades">
+    <img class="principal" src="./files/images/pages/registrar-dominio/icones-linhas.png">
+    <div class="texto">
+      <div class="parte">
+        <img src="./files/images/pages/registrar-dominio/icone-dns.png">
+        <h2>DNS</h2>
+        <p>Para domínios internacionais, você terá total autonomia de gerenciar o DNS ou CNAMEs, A e IPs.</p>
+      </div>
+      <div class="parte meio">
+        <h2>Suporte</h2>
+        <p>Conta com um suporte totalmente humanizado que estará sempre disponível para te atender. 24 horas por dia, até nos momentos mais difíceis.</p>
+        <img src="./files/images/pages/registrar-dominio/icone-suporte.png">
+      </div>
+      <div class="parte">
+        <img src="./files/images/pages/registrar-dominio/icone-redirecionar.png">
+        <h2>Redirecionamento</h2>
+        <p>Redirecione facilmente o seu domínio para qualquer plataforma ou rede social.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- section -->
+  <section class="duvidas" name="duvidas">
+    <img class="principal" src="./files/images/pages/hospedagem-vps/personagem.png">
+    <div class="texto">
+      <h2>Dúvidas <span>Frequentes</span></h2>
+      <p>Abaixo listamos as principais dúvidas que os clientes da Nuvem tem. Caso sua dúvida não esteja qui, entre em contato com nosso time.</p>
+      <div class="duvida" name="duvida">
+        <h3><img src="./files/images/global/seta.svg">Quanto tempo pra ficar ativo?</h3>
+        <h4>Após a confirmação de pagamento, você poderá configurar seu registro de domínio de imediato na cenral de cliente.</h4>
+      </div>
+      <div class="duvida" name="duvida">
+        <h3><img src="./files/images/global/seta.svg">Preciso mudar o nome, posso?</h3>
+        <h4>Após registrado não é possível editar o domínio. Será necessário realizar um novo registro.</h4>
+      </div>
+      <div class="duvida" name="duvida">
+        <h3><img src="./files/images/global/seta.svg">Terei contas de e-mails com o domínio?</h3>
+        <h4>Para ter e-mails personalizados @suaempresa.com, é necessário contratar um plano de e-mail profissional também.</h4>
+      </div>
+      <div class="duvida" name="duvida">
+        <h3><img src="./files/images/global/seta.svg">Posso cancelar?</h3>
+        <h4>Após registrado, o domínio será seu por 1 ano, você pode cancelar, no entanto, não há estorno do tempo remanescente.</h4>
+      </div>
+    </div>
+  </section>
+
+  <!-- section -->
+  <section class="depoimento">
+    <div class="texto">
+      <h2>Os melhores <span>clientes da internet</span> estão aqui.</h2>
+      <p>Mais de 10.000 pessoas confiam na Nuvem para hospedar seus sites e projetos! Tudo com a mais alta e tecnológica qualidade.</p>
+    </div>
+    <div class="quadro">
+      <p>"Eu fico assustada com a velocidade do suporte de vocês. Muitas vezes respondem em menos de 10 minutos."</p>
+    </div>
+    <img class="perfil" src="./files/images/pages/registrar-dominio/placeholder-depoimento.png">
+    <img class="celular" src="./files/images/pages/registrar-dominio/celular-depoimento.png">
+  </section>
+
+  <!-- section -->
+  <section class="dominio" name="dominio">
+    <h2>Registe seu <span>domínio!</span></h2>
+    <p>Com a gente o seu domínio ficará seguro e você pagará o preço de custo.</p>
+    <div class="input">
+      <img class="cadeado" src="./files/images/pages/registrar-dominio/icone-cadeado.png">
+      <h3>https:// www.</h3>
+      <input name="dominio" spellcheck="false" type="text" placeholder="escreva seu domínio aqui...">
+      <button type="button" name="acessar">
+        <img src="./files/images/global/check-azul.svg">
+      </button>
+    </div>
+  </section>
+
+  <!-- footer -->
+  <footer>
+    <img src="./files/images/global/logo-nuvem-2.svg">
+  </footer>
+
+  <!-- JS imports -->
+  <script src="./assets/js/global/global.js"></script>
+  <script src="./assets/js/global/nav.js"></script>
+  <script src="./assets/js/global/dominio.js"></script>
+  <script src="./assets/js/pages/registro-de-dominio/registro-de-dominio.js"></script>
+  <script src="./assets/js/pages/registro-de-dominio/colapsibles.js"></script>
+
+  <!-- Zendesk -->
+  <script type="text/javascript">
+    window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+    d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+    _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+    $.src="https://v2.zopim.com/?22CBWIRVUp0PfpBgTVJQxeMMfOjo2L7S";z.t=+new Date;$.
+    type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+  </script>
+
+</body>
+</html>
